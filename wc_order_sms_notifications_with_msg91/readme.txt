@@ -8,8 +8,6 @@ Requires PHP: 5.2.4
 == Description ==
 MSG91 WooCommerce SMS Integration Lite plugin is made to work with WooCommerce. So this is an add-on of WooCommerce plugin.
 
-==NEW==
-
 This is a very lightweight plugin.
 With this plugin, the WooCommerce buyer will get SMS notification for various types of order status such as after payment complete, after order complete, after order canceled and much more.
 The admin also will be able to get SMS notification.
