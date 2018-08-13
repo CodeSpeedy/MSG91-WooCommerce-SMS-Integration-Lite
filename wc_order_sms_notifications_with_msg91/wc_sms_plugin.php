@@ -4,12 +4,12 @@
  * @version 1.0
  */
 /*
-Plugin Name: Order SMS Notifications With MSG91 For WooCommerce
-Plugin URI: http://wordpress.org/plugins/order-sms-notifications-with-msg91-for-wc/
+Plugin Name: MSG91 WooCommerce SMS Integration Lite
+Plugin URI: http://wordpress.org/plugins/msg91-woocommerce-sms-integration-lite/
 Description: This plugin send SMS depending upon different order status. It can send SMS to both buyers and admin's phone numbers. You can customize the SMS text easily from the option
-Author: Faruque Ahamed Mollick
+Author: CodeSpeedy
 Version: 1.0
-Author URI: https://www.onlinevirtue.com/
+Author URI: https://www.codespeedy.com/
 */
 add_action("admin_menu", "msg_options");
 function msg_options() {
