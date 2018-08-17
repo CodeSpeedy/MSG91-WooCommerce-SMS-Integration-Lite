@@ -5,11 +5,11 @@
  */
 /*
 Plugin Name: MSG91 WooCommerce SMS Integration Lite
-Plugin URI: http://wordpress.org/plugins/msg91-woocommerce-sms-integration-lite/
+Plugin URI: https://www.codespeedy.com/msg91-woocommerce-sms-integration-plugin/
 Description: This plugin send SMS depending upon different order status. It can send SMS to both buyers and admin's phone numbers. You can customize the SMS text easily from the option
 Author: CodeSpeedy
 Version: 1.0
-Author URI: https://www.codespeedy.com/
+Author URI: https://www.codespeedy.com/msg91-woocommerce-sms-integration-plugin/
 */
 add_action("admin_menu", "msg_options");
 function msg_options() {
